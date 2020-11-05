@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+.sun {
+    display: block;
+    padding: 4px;
+    width: 8px;
+    height: 8px;
+    border: solid 1px #000;
+    border-radius: 50%;
+    box-shadow: 8px 0 0 -4px #000, -8px 0 0 -4px #000, 0 8px 0 -4px #000, 0 -8px 0 -4px #000, 6px -6px 0 -4px #000, -6px -6px 0 -4px #000, -6px 6px 0 -4px #000, 6px 6px 0 -4px #000;
+}
